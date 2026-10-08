@@ -1,15 +1,33 @@
 # Personal Portfolio Website
 
-Responsive portfolio built with HTML, CSS and JavaScript.
+A responsive personal portfolio website built with HTML, CSS, and JavaScript.
 
-## Features
+## 🚀 Live Demo
+
+https://annasagaramnikhiltej.github.io/nikhiltej-portfolio/
+
+## ✨ Features
+
 - Responsive design
-- About, skills, projects and certifications
+- About section
+- Skills section
+- Projects section
+- Certifications section
 - Mobile navigation
 - Contact links
 
-## Run
-Open `index.html` in a browser.
+## 🛠️ Tech Stack
 
-## Customize
-Replace the placeholder email, GitHub and LinkedIn links in `index.html`.
+- HTML
+- CSS
+- JavaScript
+
+## 📌 Project
+
+This portfolio website showcases my skills, projects, certifications, and contact information.
+
+## 👨‍💻 Author
+
+Nikhil Tej Sharma
+
+B.Tech Computer Science Engineering Student
